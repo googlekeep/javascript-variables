@@ -38,3 +38,17 @@ var love = 100;
 love =love -1;
 // -- means you are deduction 1 form the existing value
 love--;
+
+
+
+
+// full form                      shorthand
+
+var price1 = price1+10       var price1 + =10
+var price1 = price1-10       var price1 - =10 
+var price1 = price1*10       var price1 * =10  
+var price1 = price1/10       var price1 / = 10  
+
+
+
+
