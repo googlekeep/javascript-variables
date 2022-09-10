@@ -17,8 +17,17 @@ var "name" = "tom hanks",
 // 4 variable name can not starts with a number but can ends with a number
 
 var 99club = 19964;
-vr club25 = 2025;
+var club25 = 2025;
 
 // 5 how to use long name 
 //  can not use desh
-var not use deshvar user-name = ""
+var not useDeshvarUserName = "raj bappa"; (camel case) amora ata used korbo 
+var not use deshvar user-name = "raj bappa";
+var not use deshvar user-name = "raj bappa";
+
+var not use deshvar user-name = "raj bappa";
+var not use deshvar user-name = "raj bappa";
+
+
+
+
