@@ -12,3 +12,12 @@ var truth = false;                      // boolean
 var sheets = ["HTML","CSS","JS"];       // array
 var a; typeof a;                        // undefined
 var a = null;                           // value null
+
+
+
+// advanced
+var num1 = 0.1;
+var num2 = 0.2;
+var sum = num1 + num2;
+sum = sum.toFixed(1);
+sum = parseFloat(sum);
